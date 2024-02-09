@@ -1,0 +1,53 @@
+C:\Users\Faslam maX\Documents\login screen\LoginScreen\LoginScreen\bin\Debug\LoginScreen.exe.config
+C:\Users\Faslam maX\Documents\login screen\LoginScreen\LoginScreen\bin\Debug\LoginScreen.exe
+C:\Users\Faslam maX\Documents\login screen\LoginScreen\LoginScreen\bin\Debug\LoginScreen.pdb
+C:\Users\Faslam maX\Documents\login screen\LoginScreen\LoginScreen\obj\Debug\LoginScreen.csprojResolveAssemblyReference.cache
+C:\Users\Faslam maX\Documents\login screen\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Form1.resources
+C:\Users\Faslam maX\Documents\login screen\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Properties.Resources.resources
+C:\Users\Faslam maX\Documents\login screen\LoginScreen\LoginScreen\obj\Debug\LoginScreen.csproj.GenerateResource.Cache
+C:\Users\Faslam maX\Documents\login screen\LoginScreen\LoginScreen\obj\Debug\LoginScreen.exe
+C:\Users\Faslam maX\Documents\login screen\LoginScreen\LoginScreen\obj\Debug\LoginScreen.pdb
+C:\Users\Faslam maX\Documents\login screen\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Form2.resources
+C:\Users\houss\OneDrive\Bureau\StepBysTepProject\LoginScreen\LoginScreen\bin\Debug\LoginScreen.exe.config
+C:\Users\houss\OneDrive\Bureau\StepBysTepProject\LoginScreen\LoginScreen\bin\Debug\LoginScreen.exe
+C:\Users\houss\OneDrive\Bureau\StepBysTepProject\LoginScreen\LoginScreen\bin\Debug\LoginScreen.pdb
+C:\Users\houss\OneDrive\Bureau\StepBysTepProject\LoginScreen\LoginScreen\obj\Debug\LoginScreen.csproj.AssemblyReference.cache
+C:\Users\houss\OneDrive\Bureau\StepBysTepProject\LoginScreen\LoginScreen\obj\Debug\LoginScreen.csproj.SuggestedBindingRedirects.cache
+C:\Users\houss\OneDrive\Bureau\StepBysTepProject\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Form1.resources
+C:\Users\houss\OneDrive\Bureau\StepBysTepProject\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Form2.resources
+C:\Users\houss\OneDrive\Bureau\StepBysTepProject\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Properties.Resources.resources
+C:\Users\houss\OneDrive\Bureau\StepBysTepProject\LoginScreen\LoginScreen\obj\Debug\LoginScreen.csproj.GenerateResource.cache
+C:\Users\houss\OneDrive\Bureau\StepBysTepProject\LoginScreen\LoginScreen\obj\Debug\LoginScreen.csproj.CoreCompileInputs.cache
+C:\Users\houss\OneDrive\Bureau\StepBysTepProject\LoginScreen\LoginScreen\obj\Debug\LoginScreen.exe
+C:\Users\houss\OneDrive\Bureau\StepBysTepProject\LoginScreen\LoginScreen\obj\Debug\LoginScreen.pdb
+C:\Users\houss\OneDrive\Bureau\StepBysTepProject\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Controls.Announcements.resources
+C:\Users\houss\OneDrive\Bureau\StepBysTepProject\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Controls.Class.resources
+C:\Users\houss\OneDrive\Bureau\StepBysTepProject\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Controls.Home.resources
+C:\Users\houss\OneDrive\Bureau\StepBysTepProject\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Controls.Icomes.resources
+C:\Users\houss\OneDrive\Bureau\StepBysTepProject\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Controls.Studets.resources
+C:\Users\houss\OneDrive\Bureau\StepBysTepProject\LoginScreen\LoginScreen\bin\Debug\Controls\Home.resx
+C:\Users\houss\OneDrive\Bureau\StepBysTepProject\LoginScreen\LoginScreen\bin\Debug\Controls\Home.cs
+C:\Users\houss\OneDrive\Bureau\StepBysTepProject\LoginScreen\LoginScreen\bin\Debug\Controls\Home.Designer.cs
+C:\Users\houss\OneDrive\Bureau\StepBysTepProject\LoginScreen\LoginScreen\bin\Debug\Guna.UI2.dll
+C:\Users\houss\OneDrive\Bureau\StepBysTepProject\LoginScreen\LoginScreen\obj\Debug\LoginScreen.csproj.CopyComplete
+D:\win\Windows\QQQQQQQQQ\StepBysTepProject\LoginScreen\LoginScreen\bin\Debug\Controls\Home.resx
+D:\win\Windows\QQQQQQQQQ\StepBysTepProject\LoginScreen\LoginScreen\bin\Debug\Controls\Home.cs
+D:\win\Windows\QQQQQQQQQ\StepBysTepProject\LoginScreen\LoginScreen\bin\Debug\Controls\Home.Designer.cs
+D:\win\Windows\QQQQQQQQQ\StepBysTepProject\LoginScreen\LoginScreen\bin\Debug\LoginScreen.exe.config
+D:\win\Windows\QQQQQQQQQ\StepBysTepProject\LoginScreen\LoginScreen\bin\Debug\LoginScreen.exe
+D:\win\Windows\QQQQQQQQQ\StepBysTepProject\LoginScreen\LoginScreen\bin\Debug\LoginScreen.pdb
+D:\win\Windows\QQQQQQQQQ\StepBysTepProject\LoginScreen\LoginScreen\bin\Debug\Guna.UI2.dll
+D:\win\Windows\QQQQQQQQQ\StepBysTepProject\LoginScreen\LoginScreen\obj\Debug\LoginScreen.csproj.AssemblyReference.cache
+D:\win\Windows\QQQQQQQQQ\StepBysTepProject\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Controls.Announcements.resources
+D:\win\Windows\QQQQQQQQQ\StepBysTepProject\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Controls.Class.resources
+D:\win\Windows\QQQQQQQQQ\StepBysTepProject\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Controls.Home.resources
+D:\win\Windows\QQQQQQQQQ\StepBysTepProject\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Controls.Icomes.resources
+D:\win\Windows\QQQQQQQQQ\StepBysTepProject\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Controls.Studets.resources
+D:\win\Windows\QQQQQQQQQ\StepBysTepProject\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Form1.resources
+D:\win\Windows\QQQQQQQQQ\StepBysTepProject\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Form2.resources
+D:\win\Windows\QQQQQQQQQ\StepBysTepProject\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Properties.Resources.resources
+D:\win\Windows\QQQQQQQQQ\StepBysTepProject\LoginScreen\LoginScreen\obj\Debug\LoginScreen.csproj.GenerateResource.cache
+D:\win\Windows\QQQQQQQQQ\StepBysTepProject\LoginScreen\LoginScreen\obj\Debug\LoginScreen.csproj.CoreCompileInputs.cache
+D:\win\Windows\QQQQQQQQQ\StepBysTepProject\LoginScreen\LoginScreen\obj\Debug\LoginScreen.csproj.CopyComplete
+D:\win\Windows\QQQQQQQQQ\StepBysTepProject\LoginScreen\LoginScreen\obj\Debug\LoginScreen.exe
+D:\win\Windows\QQQQQQQQQ\StepBysTepProject\LoginScreen\LoginScreen\obj\Debug\LoginScreen.pdb
